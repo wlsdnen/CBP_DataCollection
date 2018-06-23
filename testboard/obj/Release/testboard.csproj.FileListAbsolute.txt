@@ -1,0 +1,8 @@
+c:\users\jojinwoo\source\repos\testboard\testboard\bin\Release\testboard.exe.config
+c:\users\jojinwoo\source\repos\testboard\testboard\bin\Release\testboard.exe
+c:\users\jojinwoo\source\repos\testboard\testboard\bin\Release\testboard.pdb
+c:\users\jojinwoo\source\repos\testboard\testboard\obj\Release\testboard.Properties.Resources.resources
+c:\users\jojinwoo\source\repos\testboard\testboard\obj\Release\testboard.csproj.GenerateResource.cache
+c:\users\jojinwoo\source\repos\testboard\testboard\obj\Release\testboard.csproj.CoreCompileInputs.cache
+c:\users\jojinwoo\source\repos\testboard\testboard\obj\Release\testboard.exe
+c:\users\jojinwoo\source\repos\testboard\testboard\obj\Release\testboard.pdb
